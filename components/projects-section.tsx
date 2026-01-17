@@ -10,7 +10,7 @@ const projects = [
     description:
       "Working model built in SEM I - An autonomous vehicle that detects and avoids obstacles using sensors and Arduino.",
     techStack: ["Arduino", "C", "Sensors"],
-    github: "https://github.com/ShivangVShukla",
+    
   },
   {
     title: "Netflix Clone",
